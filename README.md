@@ -21,9 +21,9 @@ Google Apps Script · JavaScript / TypeScript · React · Node.js · clasp · Cl
 
 **連絡先**
 
-- お仕事の相談 → [ココナラ](https://coconala.com/services/4424645) / [X の DM](https://x.com/kimura_0314) / [LinkedIn](https://www.linkedin.com/in/%E7%BE%A9%E8%BC%9D-%E6%9C%A8%E6%9D%91-9b1270441/)
+- お仕事の相談 → [ココナラ](https://coconala.com/services/4424645) / [X の DM](https://x.com/kimura_0314) / [LinkedIn](https://www.linkedin.com/in/kimura0314/)
 - 作ったもの一覧 → [ポートフォリオ](https://kimura-portfolio.pages.dev)
 
 ---
 
-<sub>I automate everyday office work with Google Apps Script — spreadsheets, Gmail, Calendar, Forms and small internal web apps. Open to freelance work: reach me on [LinkedIn](https://www.linkedin.com/in/%E7%BE%A9%E8%BC%9D-%E6%9C%A8%E6%9D%91-9b1270441/) or [X](https://x.com/kimura_0314).</sub>
+<sub>I automate everyday office work with Google Apps Script — spreadsheets, Gmail, Calendar, Forms and small internal web apps. Open to freelance work: reach me on [LinkedIn](https://www.linkedin.com/in/kimura0314/) or [X](https://x.com/kimura_0314).</sub>
